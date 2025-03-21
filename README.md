@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=21&duration=1000&pause=1000&width=465&height=55&lines=Eu+sou+Vinicius%2C+tenho+20+anos+;Eu+estou+estudando+Ci%C3%AAncias+de+dados+na+UFC.)](https://git.io/typing-svg)
 
 <p align="center">
-  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusCarvalhoLima&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusCarvalhoLima&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </p>
 
 
