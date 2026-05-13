@@ -2,6 +2,10 @@
 
 Estudante de Ciência de Dados na Universidade Federal do Ceará (UFC), com interesse em desenvolvimento de jogos, programação e tecnologia. Tenho experiência com projetos pessoais utilizando engines de jogos e desenvolvimento de sistemas web e mobile, focando principalmente em programação e resolução de problemas.<br>
 
+## 📁 Portfólio:
+
+[![Itch.io](https://img.shields.io/badge/Itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white)](https://viniciuscarvalho123.itch.io/)
+
 ## 🌐 Redes Sociais:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vinicius-carvalho-lima-808a432ba/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:viniciuscarvalholima.27@gmail.com)
