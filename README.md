@@ -1,6 +1,6 @@
 # 💫 Sobre Mim:
 
-Estudante de Ciência de Dados na Universidade Federal do Ceará (UFC), com interesse em desenvolvimento de jogos, programação e tecnologia. Tenho experiência com projetos pessoais utilizando engines de jogos e desenvolvimento de sistemas, focando principalmente em programação e resolução de problemas.<br>
+Estudante de Ciência de Dados na Universidade Federal do Ceará (UFC), com interesse em desenvolvimento de jogos, programação e tecnologia. Tenho experiência com projetos pessoais utilizando engines de jogos e desenvolvimento de sistemas web e mobile, focando principalmente em programação e resolução de problemas.<br>
 
 ## 🌐 Redes Sociais:
 
