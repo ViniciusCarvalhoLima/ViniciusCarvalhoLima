@@ -8,7 +8,7 @@ Estudante de Ciência de Dados na Universidade Federal do Ceará (UFC), com inte
 
 ## 🌐 Redes Sociais:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vinicius-carvalho-lima-808a432ba/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:viniciuscarvalholima.27@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-carvalho-lima-808a432ba/) [![Gmail](https://img.shields.io/badge/Gmail-DC143C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniciuscarvalholima.27@gmail.com)
 
 # 💻 Stack Tecnológica:
 
